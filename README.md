@@ -5,7 +5,7 @@ A lightweight, developer-friendly simple Chrome extension built to extract, visu
 ---
 
 ## 🚀 Overview
-**Chrome Palette Painter** Simplifies the design workflow by allowing users to "paint" their own palettes based on the colors they find on the web. It uses the **[Chrome Extension API](https://developer.chrome.com)** to interact with the browser and provide a seamless UI for color discovery.
+**Kalin Chrome Palette Painter** Simplifies the design workflow by allowing users to "paint" their own palettes based on the colors they find on the web. It uses the **[Chrome Extension API](https://developer.chrome.com)** to interact with the browser and provide a seamless UI for color discovery.
 
 ## ✨ Key Features
 *   **Color Extraction:** Identifies and captures color codes from active tabs.
