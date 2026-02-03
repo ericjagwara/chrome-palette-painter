@@ -10,7 +10,7 @@ A super lightweight, developer-friendly simple Chrome extension built to extract
 ## ✨ Key Features
 *   **Color Extraction:** Identifies and captures color codes from the active tabs.
 *   **Clean UI:** Simple, intuitive popup interface for managing your swatches.
-*   **Manifest V3:** Built using the latest **[Google Chrome Standards](https://developer.chrome.com)** for better security and performance.
+*   **Manifest V3:** Its built using the latest **[Google Chrome Standards](https://developer.chrome.com)** for better security and performance.
 *   **Developer Friendly:** Easy-to-read source code, perfect for learning extension development.
 
 ## 🛠️ Installation
