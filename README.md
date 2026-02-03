@@ -1,6 +1,6 @@
 # 🎨 Kalin Chrome Palette Painter
 
-A super lightweight and developer-friendly simple Chrome extension built to extract, visualize, and manage color palettes from any website in real time.
+# A super lightweight and developer-friendly simple Chrome extension built to extract, visualize, and manage color palettes from any website in real time.
 
 ---
 
