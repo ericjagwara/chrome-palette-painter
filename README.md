@@ -1,6 +1,6 @@
 # 🎨 Chrome Palette Painter
 
-A lightweight, developer-friendly Chrome extension built to extract, visualize, and manage color palettes from any website in real-time.
+A lightweight, developer-friendly simple Chrome extension built to extract, visualize, and manage color palettes from any website in real-time.
 
 ---
 
